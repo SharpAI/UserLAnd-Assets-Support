@@ -1,2 +1,2 @@
 App Name, Category, Filesystem Type Required, Supports CLI, Supports GUI, isPaidApp, Version
-Debian, Distribution, debian, true, true, false, 1
+DeepCamera, Distribution, debian, true, true, false, 1
