@@ -1,1 +1,1 @@
-Debian is a common lightweight Unix distribution.
+DeepCamera is AI Camera on Android.
