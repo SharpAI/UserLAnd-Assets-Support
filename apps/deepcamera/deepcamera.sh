@@ -4,5 +4,5 @@ sudo rm -f $SCRIPT_PATH
 
 echo "Welcome to DeepCamera on Android!"
 
-sudo bash /runtime/scripts/start.sh
+#sudo bash /runtime/scripts/start.sh
 
